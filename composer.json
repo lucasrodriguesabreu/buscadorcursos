@@ -1,0 +1,15 @@
+{
+    "name": "lucasrodriguesabreu/buscadorcursos",
+    "description": "Projeto que bsusca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lucas Rodrigues",
+            "email": "lucasrodriguesabreu@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/dom-crawler": "^4.2"
+    }
+}
