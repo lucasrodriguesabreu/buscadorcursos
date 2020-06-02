@@ -1,2 +1,3 @@
-# buscadorcursos
-PHP Composer: Dependências, Autoload e Publicação | Alura
+# Documentação do componente
+
+Este componente é SUPIMPA!!
